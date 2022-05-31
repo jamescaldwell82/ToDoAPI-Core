@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0A7MSiA1utpP/ipJlD2PBXMrDVfMqlCoe5p/z7y1YIo=",
+  "Source": "ToDoAPI-Core",
+  "BasePath": "_content/ToDoAPI-Core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
